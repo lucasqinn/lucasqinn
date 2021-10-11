@@ -1,4 +1,4 @@
-## Bem vindo ao perfil de Lucas Lopes, um verdadeiro amante do conhecimento, sempre em busca de aprender mais e compartilhar informações.
+## Em construção...
 
 <div align="center">
   <a href="https://github.com/lucasqinn">
