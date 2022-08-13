@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
 ![C#](https://img.shields.io/static/v1?logo=c-sharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square)
 ![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=36465D&logoColor=AAA&style=flat-square)
-![ShellScript](https://img.shields.io/static/v1?logo=gnu-basht&label=&message=Shell%20Script&color=36465D&logoColor=AAA&style=flat-square)
+![ShellScript](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Shell%20Script&color=36465D&logoColor=AAA&style=flat-square)
 ![Go](https://img.shields.io/static/v1?logo=go&label=&message=Golang&color=36465D&logoColor=AAA&style=flat-square)
 ----
 ![Frameworks-Plataformas-Bibliotecas](https://img.shields.io/static/v1?label=&message=Frameworks%2C%20Plataformas%20e%20Bibliotecas:&color=111&style=flat-square)
