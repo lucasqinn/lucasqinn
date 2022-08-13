@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
 ![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=AAA&style=flat-square)
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
-![C#](https://img.shields.io/static/v1?logo=c%23&label=&message=C#&color=36465D&logoColor=AAA&style=flat-square)
+![C%23](https://img.shields.io/static/v1?logo=c%23&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
