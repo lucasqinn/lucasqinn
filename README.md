@@ -5,7 +5,7 @@
 ##### Agora
 
 - ✨ Estudando Golang;
-- 🇧🇷 HackerRank player"; 
+- 🇧🇷 [HackerRank](https://www.hackerrank.com/lucasquin) player; 
 
 ##### BIO
 
@@ -19,7 +19,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
-![vb6](https://img.shields.io/static/v1?logo=vb6&label=&message=vb6lang&color=36465D&logoColor=AAA&style=flat-square)
+![vb6](https://img.shields.io/static/v1?logo=vb6&label=&message=vb6&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
