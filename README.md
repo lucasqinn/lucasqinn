@@ -45,7 +45,7 @@
 ![Azure](https://img.shields.io/static/v1?logo=microsoftazure&label=&message=Azure&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 ![TFVC](https://img.shields.io/static/v1?logo=microsoftazure&label=&message=TFVC&color=36465D&logoColor=AAA&style=flat-square)
-![Bash](https://img.shields.io/static/v1?logo=bash&label=&message=Bash&color=36465D&logoColor=AAA&style=flat-square)
+![Bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Bash&color=36465D&logoColor=AAA&style=flat-square)
 ----
 ![OS](https://img.shields.io/static/v1?label=&message=OS:&color=111&style=flat-square)
 ![Windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=36465D&logoColor=AAA&style=flat-square)
