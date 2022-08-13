@@ -18,12 +18,12 @@
 ----
 
 ![Linguagens](https://img.shields.io/static/v1?label=&message=Linguagens:&color=111&style=flat-square)
-![Go](https://img.shields.io/static/v1?logo=go&label=&message=Golang&color=36465D&logoColor=AAA&style=flat-square)
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
 ![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=AAA&style=flat-square)
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
 ![C#](https://img.shields.io/static/v1?logo=c-sharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square)
 ![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=36465D&logoColor=AAA&style=flat-square)
+![Go](https://img.shields.io/static/v1?logo=go&label=&message=Golang&color=36465D&logoColor=AAA&style=flat-square)
 ----
 ![Frameworks-Plataformas-Bibliotecas](https://img.shields.io/static/v1?label=&message=Frameworks%2C%20Plataformas%20e%20Bibliotecas:&color=111&style=flat-square)
 ![.NET](https://img.shields.io/static/v1?logo=.net&label=&message=.NET&color=36465D&logoColor=AAA&style=flat-square)
