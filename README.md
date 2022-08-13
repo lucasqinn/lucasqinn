@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
 ![C#](https://img.shields.io/static/v1?logo=c-sharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square)
 ![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=36465D&logoColor=AAA&style=flat-square)
-![Shell](https://img.shields.io/static/v1?logo=shell&label=&message=Shell&color=36465D&logoColor=AAA&style=flat-square)
+![ShellScript](https://img.shields.io/static/v1?logo=shell&label=&message=Shell%20Script&color=36465D&logoColor=AAA&style=flat-square)
 ![Go](https://img.shields.io/static/v1?logo=go&label=&message=Golang&color=36465D&logoColor=AAA&style=flat-square)
 ----
 ![Frameworks-Plataformas-Bibliotecas](https://img.shields.io/static/v1?label=&message=Frameworks%2C%20Plataformas%20e%20Bibliotecas:&color=111&style=flat-square)
@@ -45,6 +45,7 @@
 ![Azure](https://img.shields.io/static/v1?logo=microsoftazure&label=&message=Azure&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 ![TFVC](https://img.shields.io/static/v1?logo=microsoftazure&label=&message=TFVC&color=36465D&logoColor=AAA&style=flat-square)
+![Bash](https://img.shields.io/static/v1?logo=bash&label=&message=Bash&color=36465D&logoColor=AAA&style=flat-square)
 ----
 ![OS](https://img.shields.io/static/v1?label=&message=OS:&color=111&style=flat-square)
 ![Windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=36465D&logoColor=AAA&style=flat-square)
