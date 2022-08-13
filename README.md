@@ -49,3 +49,4 @@
 ![Windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=36465D&logoColor=AAA&style=flat-square)
 ![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=36465D&logoColor=AAA&style=flat-square)
 ![Android](https://img.shields.io/static/v1?logo=android&label=&message=Android&color=36465D&logoColor=AAA&style=flat-square)
+![IOS](https://img.shields.io/static/v1?logo=ios&label=&message=IOS&color=36465D&logoColor=AAA&style=flat-square)
