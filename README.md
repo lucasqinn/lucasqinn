@@ -24,10 +24,10 @@
 ![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
 ![C#](https://img.shields.io/static/v1?logo=c-sharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square)
 ----
-![Frameworks-Plataformas-Bibliotecas](https://img.shields.io/static/v1?label=&message=Frameworks%2CPlataformas%20e%20Bibliotecas:&color=111&style=flat-square)
+![Frameworks-Plataformas-Bibliotecas](https://img.shields.io/static/v1?label=&message=Frameworks%2C%20Plataformas%20e%20Bibliotecas:&color=111&style=flat-square)
 ![.NET](https://img.shields.io/static/v1?logo=.net&label=&message=.NET&color=36465D&logoColor=AAA&style=flat-square)
 ![Ionic](https://img.shields.io/static/v1?logo=Ionic&label=&message=Ionic&color=36465D&logoColor=AAA&style=flat-square)
-![NodeJS](https://img.shields.io/static/v1?logo=.node.js&label=&message=.NodeJS&color=36465D&logoColor=AAA&style=flat-square)
+![NodeJS](https://img.shields.io/static/v1?logo=node.js&label=&message=.NodeJS&color=36465D&logoColor=AAA&style=flat-square)
 ![NPM](https://img.shields.io/static/v1?logo=npm&label=&message=NPM&color=36465D&logoColor=AAA&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square)
 ----
