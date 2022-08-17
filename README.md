@@ -9,8 +9,6 @@
 
 ##### BIO
 
-- 🏢 Experiência nas empresas: **GVDasa Inteligência Educacional** && **Globaltec S/A** 
-- 🌍 Contribuidor ativo em **[Stack Overflow](https://pt.stackoverflow.com/users/189583/lucas-lopes)**
 - 🌱 Aprendendo sobre o mundo **Open Source**
 - 📫 Ente em cotato: **[Whatsapp](https://wa.me/5562995664142)** || **[Telegram](https://t.me/lucasquin)**
 - ⚡️ Fato engraçado: Um mosquito tem 47 dentes.
