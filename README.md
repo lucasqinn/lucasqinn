@@ -4,7 +4,7 @@
 
 ##### AGORA
 
-- ✨ Estudando Golang;
+- ✨ Estudando REACT, Router 6, .NET 6 + EF Core;
 - 🇧🇷 **[HackerRank](https://www.hackerrank.com/lucasquin)** player; 
 
 ##### BIO
