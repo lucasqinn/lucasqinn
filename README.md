@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🌱 Aprendendo sobre o mundo **Open Source**
-- 📫 Ente em cotato: **[Whatsapp](https://wa.me/5562995664142)** || **[Telegram](https://t.me/lucasquin)**
+- 📫 Ente em cotato: **[Whatsapp](https://wa.me/5562993421578)** || **[Telegram](https://t.me/lucasquin)**
 - ⚡️ Fato engraçado: Um mosquito tem 47 dentes.
 
 ----
