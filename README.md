@@ -4,12 +4,11 @@
 
 ##### AGORA
 
-- ✨ Estudando REACT, Router 6, .NET 6 + EF Core;
-- 🇧🇷 **[HackerRank](https://www.hackerrank.com/lucasquin)** player; 
+- ✨ Estudando Angular;
 
 ##### BIO
 
-- 🌱 Aprendendo sobre o mundo **Open Source**
+- 🌱 Aprendendo sobre o mundo de gráficos com geojson. 
 - 📫 Ente em cotato: **[Whatsapp](https://wa.me/5562993421578)** || **[Telegram](https://t.me/lucasquin)**
 - ⚡️ Fato engraçado: Um mosquito tem 47 dentes.
 
