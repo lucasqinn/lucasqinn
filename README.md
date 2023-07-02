@@ -4,12 +4,13 @@
 
 ##### AGORA
 
-- ✨ Estudando Angular;
+- ✨ Treinando uma IA no meu setup para entender melhor meus padrões de comportamento;
 
 ##### BIO
 
-- 🌱 Aprendendo sobre o mundo de gráficos com geojson. 
+- 🌱 Aprendendo sobre o mundo de metaprogramação; 
 - 📫 Ente em cotato: **[Whatsapp](https://wa.me/5562993421578)** || **[Telegram](https://t.me/lucasquin)**
+- 👨🏼‍💻 Blog pessoal: **[lucasquin.dev](https://lucasquin.dev)**
 - ⚡️ Fato engraçado: Um mosquito tem 47 dentes.
 
 ----
@@ -29,6 +30,7 @@
 ![NodeJS](https://img.shields.io/static/v1?logo=node.js&label=&message=.NodeJS&color=36465D&logoColor=AAA&style=flat-square)
 ![NPM](https://img.shields.io/static/v1?logo=npm&label=&message=NPM&color=36465D&logoColor=AAA&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square)
+![Angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=36465D&logoColor=AAA&style=flat-square)
 ----
 ![Databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat-square)
 ![Microsoft-SQL-Server](https://img.shields.io/static/v1?logo=microsoft%20sql%20server&label=&message=Microsoft%20SQL%20Server&color=36465D&logoColor=AAA&style=flat-square)
