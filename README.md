@@ -13,7 +13,6 @@
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
 ![Typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=36465D&logoColor=AAA&style=flat-square)
 ![C#](https://img.shields.io/static/v1?logo=c-sharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square)
-![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=36465D&logoColor=AAA&style=flat-square)
 ![Lua](https://img.shields.io/static/v1?logo=lua&label=&message=Lua&color=36465D&logoColor=AAA&style=flat-square)
 ![ShellScript](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=Shell%20Script&color=36465D&logoColor=AAA&style=flat-square)
 ![Go](https://img.shields.io/static/v1?logo=go&label=&message=Golang&color=36465D&logoColor=AAA&style=flat-square)
@@ -24,6 +23,7 @@
 ![NodeJS](https://img.shields.io/static/v1?logo=node.js&label=&message=.NodeJS&color=36465D&logoColor=AAA&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square)
 ![Angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=36465D&logoColor=AAA&style=flat-square)
+![SvelteKit](https://img.shields.io/static/v1?logo=svelte&label=&message=SvelteKit&color=36465D&logoColor=AAA&style=flat-square)
 ----
 ![Databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat-square)
 ![Microsoft-SQL-Server](https://img.shields.io/static/v1?logo=microsoft%20sql%20server&label=&message=Microsoft%20SQL%20Server&color=36465D&logoColor=AAA&style=flat-square)
